@@ -1,4 +1,4 @@
-print('Enter 4-digit number: ')
+print('Enter 4-digit positive integer number: ')
 user_input = input()
 original_number = int(user_input)
 
